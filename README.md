@@ -24,7 +24,7 @@
 * **라이브러리** : WinPcap
 * **참고** : Wireshark, Github, Google
 
-![설계환경](https://user-images.githubusercontent.com/46698840/94793683-d340dd80-0415-11eb-86b4-9c7c7eb2d662.png)
+![설계환경](https://user-images.githubusercontent.com/46698840/94794466-dab4b680-0416-11eb-808c-6ee89e4f0a28.png)
 
 ### 성과
 * 기획 단계에서 설계했던 모든 기능 구현
