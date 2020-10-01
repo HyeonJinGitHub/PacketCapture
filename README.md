@@ -5,7 +5,7 @@
 ![컴네6](https://user-images.githubusercontent.com/46698840/94793900-23b83b00-0416-11eb-89af-83658f629fc5.png)
 
 ### 개요
-* 로컬 컴퓨터 상에서 송수신 되는 패킷을 캡처하여 Wireshark와 유사한 기능을 하는 패킷 정보를 확인할 수 있는 프로그램
+* 로컬 컴퓨터 상에서 송수신 되는 패킷을 캡처하여 Wireshark와 유사한 기능을 하는 패킷 정보를 확인할 수 있는 CLI 프로그램
 
 ### 기능 구현
 * IP / TCP / UDP / HTTP / DNS / P2P 패킷 캡처
